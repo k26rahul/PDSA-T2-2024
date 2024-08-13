@@ -1,5 +1,11 @@
 # PDSA-T2-2024
 
+**OPPE**
+- [OPPE/Week-1](./OPPE/Week-1.ipynb)
+- [OPPE/Week-2](./OPPE/Week-2.ipynb)
+- [OPPE/Week-3](./OPPE/Week-3.ipynb)
+- [OPPE/Week-4-5-6](./OPPE/Week-4-5-6.ipynb)
+
 **Week-1**
 - [Week-1/Week-1](./Week-1/Week-1.ipynb)
 - [Week-1/PA](./Week-1/PA.ipynb)
